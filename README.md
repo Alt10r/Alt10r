@@ -10,6 +10,8 @@ Você pode entrar em contato comigo 📫:
 
 *Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos*
 
+![](https://www.bing.com/th?id=OIP.crZSMp83iWnZj1w7SilErwHaE0&w=186&h=106&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2)
+
 <!--
 **Alt10r/Alt10r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
