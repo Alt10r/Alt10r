@@ -1,5 +1,5 @@
 ## Boas vindas ao meu perfil ! ! !
-Meu nome é Felipe Leão 
+Meu nome é **Felipe Leão**
 
 -Estou estudando na Alura
 
