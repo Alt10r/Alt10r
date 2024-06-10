@@ -1,4 +1,14 @@
-## Hi there 👋
+## Boas vindas ao meu perfil ! ! !
+Meu nome é Felipe Leão 
+
+-Estou estudando na Alura
+
+-Estou me desenvolvendo na linguagem JavaScript
+
+Você pode entrar em contato comigo 📫:
+00001114939195sp@al.educacao.sp.gov.br
+
+*Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos*
 
 <!--
 **Alt10r/Alt10r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
